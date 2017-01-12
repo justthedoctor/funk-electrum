@@ -47,7 +47,8 @@ FEE_TARGETS = [25, 10, 5, 2]
 DEFAULT_PORTS = {'t':'50001', 's':'50002', 'h':'8081', 'g':'8082'}
 
 DEFAULT_SERVERS = {
-    'server1.cryptodepot.org':{'t':'50001', 's':'50002'},
+    'server2.cryptodepot.org':{'t':'50001', 's':'50002'},
+	'electrum-funk.cryptodepot.org':{'t':'50001', 's':'50002'},
 }
 
 NODES_RETRY_INTERVAL = 60
@@ -304,7 +305,7 @@ class Network(util.DaemonThread):
         self.queue_request('server.peers.subscribe', [])
         for i in FEE_TARGETS:
             self.queue_request('blockchain.estimatefee', [i])
-        self.queue_request('blockchain.relayfee', [])
+        #self.queue_request('blockchain.relayfee', [])
 
     def get_status_value(self, key):
         if key == 'status':
