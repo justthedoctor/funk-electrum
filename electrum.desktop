@@ -2,13 +2,13 @@
 # sudo desktop-file-install electrum.desktop
 
 [Desktop Entry]
-Comment=Lightweight Bitcoin Client
+Comment=Lightweight Digital Cypherfunk Client
 Exec=electrum %u
-GenericName[en_US]=Electrum
+GenericName[en_US]=Electrum Digital Cypherfunk
 GenericName=Electrum
 Icon=electrum
-Name[en_US]=Electrum Bitcoin Wallet
-Name=Electrum Bitcoin Wallet
+Name[en_US]=Electrum Digital Cypherfunk Wallet
+Name=Electrum Digital Cypherfunk Wallet
 Categories=Network;
 StartupNotify=false
 Terminal=false

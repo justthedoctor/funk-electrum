@@ -1,0 +1,101 @@
+missing module named PySide - imported by c:\python27\lib\site-packages\pyinstaller-3.3.dev0+483c819-py2.7.egg\PyInstaller\loader\rthooks\pyi_rth_qt4plugins.py
+missing module named structures - imported by C:\electrum\packages\requests\utils.py
+missing module named cookies - imported by C:\electrum\packages\requests\utils.py
+missing module named compat - imported by C:\electrum\packages\requests\utils.py
+missing module named  - imported by C:\electrum\packages\requests\utils.py
+missing module named zbar - imported by electrum.qrscanner
+missing module named hw_wallet.qt - imported by C:\electrum\plugins\ledger\qt.py
+missing module named ledger - imported by C:\electrum\plugins\ledger\qt.py
+missing module named keepkeylib - imported by C:\electrum\plugins\keepkey\qt.py
+missing module named keepkey.KeepKeyPlugin - imported by keepkey, C:\electrum\plugins\keepkey\qt.py
+missing module named trezor.qt_generic - imported by C:\electrum\plugins\trezor\qt.py, C:\electrum\plugins\keepkey\qt.py
+missing module named 'trezorlib.qt' - imported by C:\electrum\plugins\trezor\qt.py
+missing module named trezor.TrezorPlugin - imported by trezor, C:\electrum\plugins\trezor\qt.py
+missing module named clientbase - imported by C:\electrum\plugins\trezor\client.py
+missing module named trezorlib - imported by C:\electrum\plugins\trezor\client.py
+missing module named _xmlplus - imported by xml
+missing module named _xmlrpclib - imported by xmlrpclib
+missing module named plugins.run_hook - imported by plugins, storage, C:\electrum\lib\wallet.py
+missing module named plugins.plugin_loaders - imported by plugins, storage
+missing module named _curses - imported by curses, curses.has_key
+missing module named seed_dialog - imported by C:\electrum\gui\qt\main_window.py
+missing module named password_dialog - imported by C:\electrum\gui\qt\main_window.py
+missing module named console - imported by C:\electrum\gui\qt\main_window.py
+missing module named contact_list - imported by C:\electrum\gui\qt\main_window.py
+missing module named address_list - imported by C:\electrum\gui\qt\main_window.py
+missing module named invoice_list - imported by C:\electrum\gui\qt\main_window.py
+missing module named paytoedit - imported by C:\electrum\gui\qt\main_window.py
+missing module named qrwindow - imported by C:\electrum\gui\qt\main_window.py
+missing module named request_list - imported by C:\electrum\gui\qt\main_window.py
+missing module named address_dialog - imported by C:\electrum\gui\qt\main_window.py
+missing module named history_list - imported by C:\electrum\gui\qt\main_window.py
+missing module named transaction_dialog - imported by C:\electrum\gui\qt\main_window.py
+missing module named qrtextedit - imported by C:\electrum\gui\qt\main_window.py
+missing module named qrcodewidget - imported by C:\electrum\gui\qt\main_window.py
+missing module named network_dialog - imported by C:\electrum\gui\qt\main_window.py
+missing module named amountedit - imported by C:\electrum\gui\qt\main_window.py
+missing module named icons_rc - imported by C:\electrum\gui\qt\main_window.py
+missing module named resource - imported by posix, C:\electrum\electrum
+missing module named posix - imported by os, C:\electrum\electrum
+missing module named macresource - imported by MacOS, C:\electrum\electrum
+missing module named MacOS - imported by platform, C:\electrum\electrum
+missing module named _datetime - imported by future.backports.datetime, C:\electrum\electrum
+missing module named _pybsddb - imported by bsddb, bsddb.db, C:\electrum\electrum
+missing module named bsddb3 - imported by bsddb, C:\electrum\electrum
+missing module named hid - imported by lib.plugins, electrum.plugins, C:\electrum\electrum
+missing module named os2 - imported by os, C:\electrum\electrum
+missing module named _emx_link - imported by os, C:\electrum\electrum
+missing module named ce - imported by os, C:\electrum\electrum
+missing module named riscos - imported by os, C:\electrum\electrum
+missing module named riscospath - imported by os, C:\electrum\electrum
+missing module named riscosenviron - imported by os, C:\electrum\electrum
+missing module named org - imported by copy, C:\electrum\electrum
+missing module named google.protobuf.internal._api_implementation - imported by google.protobuf.internal, google.protobuf.internal.api_implementation, C:\electrum\electrum
+missing module named google.protobuf._use_fast_cpp_protos - imported by google.protobuf, google.protobuf.internal.api_implementation, C:\electrum\electrum
+missing module named google.protobuf.pyext._message - imported by google.protobuf.pyext, google.protobuf.descriptor, google.protobuf.pyext.cpp_message, C:\electrum\electrum
+runtime module named six.moves - imported by copy_reg, qrcode.util, C:\electrum\electrum
+missing module named six.moves.xrange - imported by six.moves, qrcode.util
+missing module named ndg - imported by requests.packages.urllib3.contrib.pyopenssl, C:\electrum\electrum
+missing module named 'ndg.httpsclient' - imported by requests.packages.urllib3.contrib.pyopenssl, C:\electrum\electrum
+missing module named OpenSSL - imported by requests.packages.urllib3.contrib.pyopenssl, C:\electrum\electrum
+missing module named pyasn1 - imported by requests.packages.urllib3.contrib.pyopenssl, C:\electrum\electrum
+missing module named 'pyasn1.type' - imported by requests.packages.urllib3.contrib.pyopenssl, C:\electrum\electrum
+missing module named certifi - imported by requests.certs, C:\electrum\electrum
+missing module named simplejson - imported by requests.compat, jsonrpclib.jsonrpc, C:\electrum\electrum
+missing module named 'urllib.request' - imported by requests.compat, C:\electrum\electrum
+missing module named 'urllib.parse' - imported by requests.packages.urllib3.request, requests.packages.urllib3.poolmanager, requests.compat, C:\electrum\electrum
+missing module named backports - imported by requests.packages.urllib3.packages.ssl_match_hostname, C:\electrum\electrum
+missing module named 'requests.packages.urllib3.packages.six.moves' - imported by requests.packages.urllib3.util.response, requests.packages.urllib3.response, C:\electrum\electrum
+missing module named urllib3 - imported by requests.packages, C:\electrum\electrum
+missing module named chardet - imported by requests.packages, C:\electrum\electrum
+missing module named 'ecdsa.six.moves' - imported by ecdsa.numbertheory, C:\electrum\electrum
+missing module named _thread.get_ident - imported by _thread, future.backports.misc, C:\electrum\electrum
+missing module named reprlib.recursive_repr - imported by reprlib, future.backports.misc, C:\electrum\electrum
+missing module named 'test.support' - imported by future.moves.test.support, C:\electrum\electrum
+missing module named gestalt - imported by platform, C:\electrum\electrum
+missing module named java - imported by platform, C:\electrum\electrum
+missing module named 'java.lang' - imported by platform, C:\electrum\electrum, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\electrum\electrum
+missing module named grp - imported by shutil, tarfile, C:\electrum\electrum
+missing module named dbm - imported by future.standard_library, future.moves.dbm, whichdb, anydbm, future.moves.dbm.ndbm, C:\electrum\electrum
+missing module named 'dbm.dumb' - imported by future.moves.dbm.dumb, C:\electrum\electrum
+missing module named 'dbm.gnu' - imported by future.moves.dbm.gnu, C:\electrum\electrum
+missing module named gdbm - imported by anydbm, future.moves.dbm.gnu, C:\electrum\electrum
+missing module named 'dbm.ndbm' - imported by future.moves.dbm.ndbm, C:\electrum\electrum
+missing module named 'org.python' - imported by pickle, C:\electrum\electrum, xml.sax
+missing module named Crypto.PublicKey._fastmath - imported by Crypto.PublicKey, Crypto.Util.number, Crypto.PublicKey.RSA, Crypto.PublicKey.DSA, C:\electrum\electrum
+missing module named rourl2path - imported by urllib, C:\electrum\electrum
+missing module named pwd - imported by posixpath, shutil, tarfile, getpass, webbrowser, C:\electrum\electrum
+missing module named termios - imported by getpass, tty, C:\electrum\electrum
+missing module named EasyDialogs - imported by getpass, C:\electrum\electrum
+missing module named _scproxy - imported by urllib, future.backports.urllib.request, C:\electrum\electrum
+missing module named readline - imported by cmd, pdb, C:\electrum\electrum
+missing module named fcntl - imported by tempfile, subprocess, SimpleXMLRPCServer, jsonrpclib.SimpleJSONRPCServer, C:\electrum\electrum
+missing module named _dummy_threading - imported by dummy_threading, C:\electrum\electrum
+missing module named SOCKS - imported by ftplib, C:\electrum\electrum
+missing module named SimpleWebSocketServer - imported by electrum.websockets
+missing module named cjson - imported by jsonrpclib.jsonrpc
+missing module named ImageDraw - imported by qrcode.image.pil
+missing module named Image - imported by qrcode.image.pil
+missing module named PIL - imported by qrcode.image.pil
+missing module named jnius - imported by lib.util, C:\electrum\electrum, electrum.util, util, C:\electrum\lib\util.py
